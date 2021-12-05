@@ -4,8 +4,12 @@
 
 
 
+
+
 [//]: # (NOTE: Please do NOT directly edit this file! Instead, edit)
 [//]: # (either degoogle.yml or any Markdown file in the md/ directory)
+
+
 
 
 
@@ -16,12 +20,13 @@
 
 ### *I don't have anything to hide, but I don't have anything to show you either.*
 
-![Updated](https://img.shields.io/static/v1?label=updated&message=June%202nd%202020&color=388E3C&style=flat-square)
+![Updated](https://img.shields.io/static/v1?label=updated&message=June%2011th%202020&color=388E3C&style=flat-square)
 
 ![GitHub](https://img.shields.io/github/license/tycrek/degoogle?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/tycrek/degoogle?style=flat-square)
 ![GitHub issues](https://img.shields.io/github/issues/tycrek/degoogle?style=flat-square)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/tycrek/degoogle?style=flat-square)
+
 
 # Index
 
@@ -361,7 +366,7 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
 | [Open Font Library](https://fontlibrary.org/) | **5-eyes** | Lots of Serif and Sans-Serif fonts that can be directly embedded into a website. |
-| [google webfonts helper](https://google-webfonts-helper.herokuapp.com/fonts) | **5-eyes** | Hassle-free way for webmasters to self-host open-source Fonts from "Google Fonts" |
+| [google webfonts helper](https://google-webfonts-helper.herokuapp.com/fonts) | **5-eyes** | Hassle-free way for webmasters to self-host open-source fonts from Google Fonts |
 | [Brick](https://brick.im) | **9-eyes** | Open source fonts that work in a very similar way to Google fonts. Most of the fonts render nicer than Google Fonts. Thanks @FreddyMarsden |
 
 
@@ -481,7 +486,7 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 | [Firefox](https://firefox.com/) |  | Built by Mozilla, "The Privacy Company". Huge extension library; great for privacy. |
 | [Waterfox](https://www.waterfox.net/) | **5-eyes** | Based on Firefox, but **64-bit only** with an emphasis on speed and privacy. Has a "classic" version built off older Firefox for legacy extension support and also an "alpha" version built off Quantum. It doesn't collect any telemetry and also removes Pocket from the alpha release. Project is run by [Alex Kontos](https://github.com/MrAlex94/) and is constantly in active development. Looks very clean and fast. Android versions are in the works too. **UPDATE:** @Nudin pointed out in Issue #85 that Waterfox is now [apart of System1](https://www.waterfox.net/blog/waterfox-has-joined-system1/). |
 | [Vivaldi](https://vivaldi.com/) |  | Privacy-focused browser. Appears to be very customizable and feature-rich. |
-| [Tor Browser](https://www.torproject.org/download/) |  | Firefox-based browser routed through the onion network. Automatically has a few privacy extensions installed (such as HTTPS Everywhere). Be careful using it in public though, as it *can* look like a pretty suspicious piece of software. Available for Windows, Linux, macOS, and Android. |
+| [Tor Browser](https://www.torproject.org/download/) |  | Firefox-based browser routed through the [Tor network](https://en.wikipedia.org/wiki/Tor_%28anonymity_network%29). Automatically has a few privacy extensions installed (such as HTTPS Everywhere). [Read this article](https://write.privacytools.io/my-thoughts-on-security/slicing-onions-part-1-myth-busting-tor) for more info on how it works and the benefits of using Tor (Thanks @FreddyMarsden). Available for Windows, Linux, macOS, and Android. |
 
 
 
@@ -515,9 +520,9 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 | ---- | ---- | ----------- |
 | [F-Droid](https://f-droid.org/) |  | Catalogue of FOSS apps for Android. Easy to install and keeps track of updates. Also has a browser version if you don't want to install the app. |
 | [Aptoide](https://www.aptoide.com/) |  | Marketplace for Android apps. Publishers/developers manage their own stores rather than a centralized market such as Google Play Store. |
-| [Yalp Store](https://github.com/yeriomin/YalpStore) |  | Yalp downloads Play Store apps as APK files. Helpful if you want to stay away from the Play Store, but require an app that is only available there. |
+| [Yalp Store (fork)](https://github.com/kiliakin/YalpStore) [![F-Droid](https://img.shields.io/f-droid/v/com.github.kiliakin.yalpstore?style=flat-square)](https://f-droid.org/en/packages/com.github.kiliakin.yalpstore/) |  | Yalp downloads Play Store apps as APK files. Helpful if you want to stay away from the Play Store, but require an app that is only available there. This version is a fork of the original project that is no longer active. Thank @onlyjob |
 | [APKMirror](https://www.apkmirror.com/) |  | An online library of user-uploaded APK files. Helpful if you need a specific older version of an app or don't want to download it through Google Play. |
-| [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore) |  | Aurora Store is ~~simply a fork of the Yalp Store~~ no longer a fork of Yalp, but is now its own project (see their [readme](https://gitlab.com/AuroraOSS/AuroraStore/blob/master/README.md)). **Update:** Removed note on using microG as Aurora Store [does not use it](https://gitlab.com/AuroraOSS/AuroraStore/-/blob/master/README.md#L77). Thanks @RefexHD & @notpushkin |
+| [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore) [![F-Droid](https://img.shields.io/f-droid/v/com.aurora.store?style=flat-square)](https://f-droid.org/en/packages/com.aurora.store/) |  | Aurora Store is ~~simply a fork of the Yalp Store~~ no longer a fork of Yalp, but is now its own project (see their [readme](https://gitlab.com/AuroraOSS/AuroraStore/blob/master/README.md)). **Update:** Removed note on using microG as Aurora Store [does not use it](https://gitlab.com/AuroraOSS/AuroraStore/-/blob/master/README.md#L77). Thanks @notpushkin |
 | [Fossdroid](https://fossdroid.com/) |  | Uses the same library as F-Droid, but with a modern UI similar to that of the Play Store and the ability to view apps by popularity. |
 | [G-Droid](https://gitlab.com/gdroid/gdroidclient/) |  | Also uses the F-Droid repo but with a different UI. |
 | [APKGrabber](https://github.com/hemker/apkgrabber) |  | Fork of [APKUpdater](https://github.com/rumboalla/apkupdater). Both are great tools for avoiding app stores (on Android). |
@@ -551,6 +556,7 @@ When contributing, **please try to follow the rules outlined in [CONTRIBUTING.md
 | ---- | ---- | ----------- |
 | [Fruux (mobile app)](https://fruux.com/) |  | Same service from above provides an Android app. |
 | [Etar](https://github.com/xsoh/Etar-Calendar) [![F-Droid](https://img.shields.io/f-droid/v/ws.xsoh.etar?style=flat-square)](https://f-droid.org/en/packages/ws.xsoh.etar/) |  | Open-source material design Calendar that integrates with the Android Calendar API. If you have a CalDAV/CardDAV server, I recommend using [DAVx5](https://www.davx5.com/) to sync with it. Available from F-Droid. Also look at [ICSx5](https://icsx5.bitfire.at/), another WebDav/CalDav client that can integrate with calendar apps. Also available from F-Droid. Thanks @je-vv for ICSx5. |
+| [Simple Calendar](https://github.com/SimpleMobileTools/Simple-Calendar) [![F-Droid](https://img.shields.io/f-droid/v/com.simplemobiletools.calendar.pro?style=flat-square)](https://f-droid.org/en/packages/com.simplemobiletools.calendar.pro/) |  | Open-source. Part of the [Simple Mobile Tools](https://github.com/SimpleMobileTools) project. |
 
 
 
@@ -922,6 +928,7 @@ Everything you need to become a Privacy Wizard.
 - Other:
   - [xkcd](https://xkcd.com/) - They have comics for *everything*.
   - System32 Comics [Instagram](https://www.instagram.com/system32comics/) and [Reddit](https://www.reddit.com/r/System32Comics/) - Comedic computer comics.
+
 
 # Closing remarks
 
