@@ -1,6 +1,6 @@
 Thanks to everyone here for contributing in some way! (usernames are in no particular order).
 
-GitHub:
+### GitHub:
 
 - [Fabian Cook](https://github.com/fabiancook)
 - [Alexander Schaap](https://github.com/aschaap)
@@ -40,13 +40,51 @@ GitHub:
 - [@notpushkin](https://github.com/notpushkin)
 - [@onlyjob](https://github.com/onlyjob)
 - [@marco3mt](https://github.com/marco3mt)
-- [@FreddyMarsden](https://github.com/FreddyMarsden)
 - [@E5dZEUpc3BKaJrHnQVZd5zE](https://github.com/E5dZEUpc3BKaJrHnQVZd5zE)
 - [@woutfeys](https://github.com/woutfeys)
 - [@virtadpt](https://github.com/virtadpt)
 - [@compressstudio](https://github.com/compressstudio)
+- [@PalmoliveDev](https://github.com/PalmoliveDev)
+- [@mahdi1234](https://github.com/mahdi1234)
+- [@kdkasad](https://github.com/kdkasad)
+- [@resto1231](https://githgithub.com/resto1231)
+- [@kdrag0n](https://github.com/kdrag0n)
+- [@ianschmitz](https://github.com/ianschmitz)
+- [@mythmakerseven](https://github.com/mythmakerseven)
+- [@SuperSandro2000](https://github.com/superSandro2000)
+- [@honorsea](https://github.com/honorsea)
+- [@chanana](https://github.com/chanana)
+- [@m0yP](https://github.com/m0yP)
+- [@mceachen](https://github.com/mceachen)
+- [@adam-sroka](https://github.com/adam-sroka)
+- [@freddy-m](https://github.com/freddy-m)
+- [@Cristy94](https://github.com/Cristy94)
+- [@rkingett](https://github.com/rkingett)
+- [@komape](https://github.com/komape)
+- [@jefersonralmeida](https://github.com/jefersonralmeida)
+- [@codedust](https://github.com/codedust)
+- [@shivasagarrao](https://github.com/shivasagarrao)
+- [@0xflotus](https://github.com/0xflotus)
+- [@J053Fabi0](https://github.com/J053Fabi0)
+- [@trexx](https://github.com/trexx)
+- [@anthonynsimon](https://github.com/anthonynsimon)
+- [@timbuening](https://github.com/timbuening)
+- [@infectormp](https://github.com/infectormp)
+- [@vivekmiyani](https://github.com/vivekmiyani)
+- [@evrifaessa](https://github.com/evrifaessa)
+- [@MahbodHastam](https://github.com/MahbodHastam)
+- [@aa1874](https://github.com/aa1874)
+- [@bgrgndzz](https://github.com/bgrgndzz)
+- [@samcross021](https://github.com/samcross021)
+- [@Shahin-rmz](https://github.com/Shahin-rmz)
+- [@vishnukvmd](https://github.com/vishnukvmd)
+- [@Joshuasony](https://github.com/Joshuasony)
+- [@BobIsMyManager](https://github.com/BobIsMyManager)
+- [@itforweb666](https://github.com/itforweb666)
+- [@seanking2919](https://github.com/seanking2919)
+- [@FireMasterK](https://github.com/FireMasterK)
 
-Reddit:
+### Reddit:
 
 - u/SheepKid12
 - u/yieldingTemporarily
