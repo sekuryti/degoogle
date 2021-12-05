@@ -1,0 +1,39 @@
+name: Build
+on:
+  push:
+    branches:
+      - master
+    paths:
+      - yaml/*.yml
+      - md/*.md
+      - _build.js
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - uses: actions/setup-node@v1
+      with:
+        node-version: 13.x
+    - name: Install dependencies
+      run: npm i
+    - name: Build
+      run: node _build.js
+    - name: Commit
+      run: |
+        git add README.md
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git commit -m "Generated README.md"
+    - name: Push
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: master
+    - name: Wiki
+      run: node _wiki.js
+      env:
+        REDDIT_USER: ${{ secrets.REDDIT_USER}}
+        REDDIT_PASS: ${{ secrets.REDDIT_PASS}}
+        REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID}}
+        REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET}}

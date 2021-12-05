@@ -42,6 +42,11 @@ GitHub:
 - [@onlyjob](https://github.com/onlyjob)
 - [@marco3mt](https://github.com/marco3mt)
 - [@ghost](https://github.com/ghost)
+- [@FreddyMarsden](https://github.com/FreddyMarsden)
+- [@E5dZEUpc3BKaJrHnQVZd5zE](https://github.com/E5dZEUpc3BKaJrHnQVZd5zE)
+- [@woutfeys](https://github.com/woutfeys)
+- [@virtadpt](https://github.com/virtadpt)
+- [@compressstudio](https://github.com/compressstudio)
 
 Reddit:
 
@@ -77,3 +82,4 @@ Reddit:
 - u/masao77
 - u/-Choose-A-User-
 - u/EbonixCo
+- u/TheCy-FiJuggernaut
